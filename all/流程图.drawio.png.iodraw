@@ -74,9 +74,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nucFTa5zMoKkufGMBCpV-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nucFTa5zMoKkufGMBCpV-27" target="nucFTa5zMoKkufGMBCpV-33" edge="1">
+        <mxCell id="nucFTa5zMoKkufGMBCpV-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nucFTa5zMoKkufGMBCpV-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="318" y="686" as="targetPoint" />
+            <mxPoint x="340" y="686" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nucFTa5zMoKkufGMBCpV-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nucFTa5zMoKkufGMBCpV-27" target="nucFTa5zMoKkufGMBCpV-35" edge="1">
@@ -87,9 +87,6 @@
         </mxCell>
         <mxCell id="nucFTa5zMoKkufGMBCpV-30" value="即将开抢" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="614" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nucFTa5zMoKkufGMBCpV-33" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="646" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nucFTa5zMoKkufGMBCpV-34" value="缺货登记" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="265" y="656" width="70" height="30" as="geometry" />
@@ -162,6 +159,9 @@
         </mxCell>
         <mxCell id="eBAX64yY9ijohgvJ5Icn-3" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="-20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eBAX64yY9ijohgvJ5Icn-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="880" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
