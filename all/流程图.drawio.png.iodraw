@@ -114,19 +114,11 @@
         <mxCell id="4Cox4TZLalbZ0CZv2abH-38" value="检查是否有广告" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="505" y="352.98" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4Cox4TZLalbZ0CZv2abH-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="4Cox4TZLalbZ0CZv2abH-45" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="541.9800000000005" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4Cox4TZLalbZ0CZv2abH-41" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="450" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eBAX64yY9ijohgvJ5Icn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Cox4TZLalbZ0CZv2abH-45" target="4Cox4TZLalbZ0CZv2abH-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4Cox4TZLalbZ0CZv2abH-45" value="使用scikit-learn训练识别广告特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="503.75" y="589" width="92.5" height="55" as="geometry" />
+          <mxGeometry x="503.75" y="500" width="92.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="eBAX64yY9ijohgvJ5Icn-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Cox4TZLalbZ0CZv2abH-47" target="eBAX64yY9ijohgvJ5Icn-7">
           <mxGeometry relative="1" as="geometry" />
@@ -162,6 +154,9 @@
         </mxCell>
         <mxCell id="eBAX64yY9ijohgvJ5Icn-10" value="进入页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBAX64yY9ijohgvJ5Icn-15" value="使用广告去除服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="505" y="494.98" width="90" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
