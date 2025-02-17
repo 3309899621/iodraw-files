@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1178" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -117,6 +117,9 @@
         <mxCell id="4Cox4TZLalbZ0CZv2abH-41" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="510" y="450" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eBAX64yY9ijohgvJ5Icn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4Cox4TZLalbZ0CZv2abH-45" target="eBAX64yY9ijohgvJ5Icn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4Cox4TZLalbZ0CZv2abH-45" value="使用scikit-learn训练识别广告特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="503.75" y="500" width="92.5" height="55" as="geometry" />
         </mxCell>
@@ -155,8 +158,11 @@
         <mxCell id="eBAX64yY9ijohgvJ5Icn-10" value="进入页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eBAX64yY9ijohgvJ5Icn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eBAX64yY9ijohgvJ5Icn-15" target="4Cox4TZLalbZ0CZv2abH-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eBAX64yY9ijohgvJ5Icn-15" value="使用广告去除服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="505" y="494.98" width="90" height="47" as="geometry" />
+          <mxGeometry x="505" y="597" width="90" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
