@@ -85,11 +85,14 @@
         <mxCell id="nucFTa5zMoKkufGMBCpV-10" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="578" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nucFTa5zMoKkufGMBCpV-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nucFTa5zMoKkufGMBCpV-16" target="nucFTa5zMoKkufGMBCpV-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nucFTa5zMoKkufGMBCpV-16" value="使用scikit-learn训练识别广告特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="505.5" width="92.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="nucFTa5zMoKkufGMBCpV-22" value="调用去除广告代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="585" width="90" height="45" as="geometry" />
+          <mxGeometry x="447.5" y="585" width="97.5" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
