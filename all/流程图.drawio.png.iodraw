@@ -119,7 +119,7 @@
           <mxGeometry x="505" y="494.98" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="4Cox4TZLalbZ0CZv2abH-41" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="590" y="372.98" width="40" height="30" as="geometry" />
+          <mxGeometry x="510" y="450" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Cox4TZLalbZ0CZv2abH-45" value="使用scikit-learn训练识别广告特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="503.75" y="589" width="92.5" height="55" as="geometry" />
