@@ -58,8 +58,8 @@
         <mxCell id="4H7_10cN6Zc38S5obaju-18" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="198" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nucFTa5zMoKkufGMBCpV-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="490" width="80" height="80" as="geometry" />
+        <mxCell id="nucFTa5zMoKkufGMBCpV-2" value="检查是否有广告" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="490" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nucFTa5zMoKkufGMBCpV-3" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="458" width="40" height="30" as="geometry" />
