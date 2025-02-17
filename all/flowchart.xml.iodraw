@@ -44,6 +44,11 @@
         <mxCell id="4H7_10cN6Zc38S5obaju-11" value="登录验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="175" y="290" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="nucFTa5zMoKkufGMBCpV-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4H7_10cN6Zc38S5obaju-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4H7_10cN6Zc38S5obaju-15" value="是否登陆成功" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="370" width="80" height="80" as="geometry" />
         </mxCell>
@@ -53,8 +58,8 @@
         <mxCell id="4H7_10cN6Zc38S5obaju-18" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="198" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nucFTa5zMoKkufGMBCpV-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175" y="490" width="90" height="40" as="geometry" />
+        <mxCell id="nucFTa5zMoKkufGMBCpV-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
