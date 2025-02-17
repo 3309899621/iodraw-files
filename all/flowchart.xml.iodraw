@@ -124,6 +124,9 @@
             <mxPoint x="318" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nucFTa5zMoKkufGMBCpV-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nucFTa5zMoKkufGMBCpV-27" target="nucFTa5zMoKkufGMBCpV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nucFTa5zMoKkufGMBCpV-27" value="目标票可进行抢购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="790" width="100" height="100" as="geometry" />
         </mxCell>
@@ -138,6 +141,9 @@
         </mxCell>
         <mxCell id="nucFTa5zMoKkufGMBCpV-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nucFTa5zMoKkufGMBCpV-37" value="立即购买" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="205" y="898" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
