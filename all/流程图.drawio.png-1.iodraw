@@ -41,7 +41,7 @@
           <mxGeometry x="442.5" y="815" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="107.5" y="1050" width="395" height="220" as="geometry" />
+          <mxGeometry x="107.5" y="1030" width="395" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-17" value="基础设施层" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="1050" width="90" height="30" as="geometry" />
