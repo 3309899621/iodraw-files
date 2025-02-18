@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="950" width="590" height="200" as="geometry" />
+          <mxGeometry x="125" y="750" width="590" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-0" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt; 用户层&lt;/pre&gt;&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;web浏览器 &lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="350" width="120" height="60" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-12" value="数据采集服务&lt;div&gt;爬虫模块&lt;/div&gt;&lt;div&gt;数据解析模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="815" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Eu6wUaMIfxY2AldCUVJG-14" value="数据采集服务&lt;div&gt;爬虫模块&lt;/div&gt;&lt;div&gt;数据解析模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="825" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
