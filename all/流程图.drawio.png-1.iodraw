@@ -31,7 +31,7 @@
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-12" value="数据采集服务&lt;div&gt;爬虫模块&lt;/div&gt;&lt;div&gt;数据解析模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="252.5" y="815" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Eu6wUaMIfxY2AldCUVJG-14" value="数据采集服务&lt;div&gt;爬虫模块&lt;/div&gt;&lt;div&gt;数据解析模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Eu6wUaMIfxY2AldCUVJG-14" value="&lt;div&gt;数据处理服务&lt;/div&gt;&lt;div&gt;数据清洗模块&lt;/div&gt;&lt;div&gt;文本预处理模块&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="442.5" y="815" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
