@@ -32,10 +32,10 @@
           <mxGeometry x="-30" y="810" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据采集服务&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;爬虫模块&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;数据解析模块&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="245" y="815" width="120" height="100" as="geometry" />
+          <mxGeometry x="170" y="810" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;数据处理服务&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;数据清洗模块&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;文本预处理模块&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="442.5" y="815" width="120" height="100" as="geometry" />
+          <mxGeometry x="382.5" y="810" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="107.5" y="1030" width="395" height="220" as="geometry" />
