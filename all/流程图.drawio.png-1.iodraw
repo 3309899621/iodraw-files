@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="27.5" y="760" width="590" height="200" as="geometry" />
+          <mxGeometry x="10" y="760" width="590" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Eu6wUaMIfxY2AldCUVJG-0" target="Eu6wUaMIfxY2AldCUVJG-2">
           <mxGeometry relative="1" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="350" y="535" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-11" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;推荐服务&lt;/pre&gt;&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;协同过滤算法&lt;/pre&gt;&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap-mode: wrap; word-break: break-all; font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;基于内容的推荐&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="62.5" y="815" width="120" height="100" as="geometry" />
+          <mxGeometry x="47.5" y="810" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-12" value="数据采集服务&lt;div&gt;爬虫模块&lt;/div&gt;&lt;div&gt;数据解析模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="252.5" y="815" width="120" height="100" as="geometry" />
+          <mxGeometry x="245" y="815" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Eu6wUaMIfxY2AldCUVJG-14" value="&lt;div&gt;数据处理服务&lt;/div&gt;&lt;div&gt;数据清洗模块&lt;/div&gt;&lt;div&gt;文本预处理模块&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="442.5" y="815" width="120" height="100" as="geometry" />
